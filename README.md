@@ -48,3 +48,6 @@ Foi utilizada uma API para realizar a requisição das perguntas, que são gerad
 16 - Crie um botão para ir ao início;
 
 17 - Crie o conteúdo da tela de _ranking_;
+
+# Deploy
+https://jogo-trivia-ten.vercel.app/
